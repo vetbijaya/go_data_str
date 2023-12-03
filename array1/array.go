@@ -8,7 +8,7 @@ func main() {
 	//Create an array which holds 5 values of type int
 	x := [5]int{5, 6, 7, 8, 9}
 
-	//Range over the array and print out the values using format prining
+	//Range over the array and print out the values using format printing
 	for k, v := range x {
 		fmt.Println(k, v)
 	}
