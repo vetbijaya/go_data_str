@@ -12,7 +12,7 @@ type vehicle struct {
 	color string
 }
 
-//Create two new types: truck & sedan
+// Create two new types: truck & sedan
 type truck struct {
 	vehicle
 	fourWheel bool

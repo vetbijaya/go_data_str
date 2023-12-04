@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-//declare the struct
+// declare the struct
 type person struct {
 	firstname          string
 	lastname           string
