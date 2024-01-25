@@ -39,7 +39,7 @@ func main() {
 		luxury: false,
 	}
 
-	//Print out eack of these values
+	//Print out each of these values
 	fmt.Println(t)
 	fmt.Println(s)
 	//Print out a single field from each of these values
